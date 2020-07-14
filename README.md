@@ -15,7 +15,7 @@ pip install requests
 
 pip2 install requests
 
-git clone https://github.com/mryonex/yonexdrumper
+git clone https://github.com/mryonex/yonexdrumper.git
 
 cd yonexdrumper
 
